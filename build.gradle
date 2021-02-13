@@ -15,7 +15,7 @@ plugins {
 }
 
 group = "net.freudasoft"
-version = "0.0.2"
+version = "0.0.5"
 
 repositories {
     // Use jcenter for resolving your dependencies.
